@@ -16,8 +16,8 @@
 </div>
 
 ## 🔗 배포 및 확인
-- **배포 URL:** [https://imyoman99.github.io/ai-sw/](https://imyoman99.github.io/ai-sw/) 
-- **GitHub 저장소:** [https://github.com/imyoman99/ai-sw](https://github.com/imyoman99/ai-sw) 
+- **배포 URL:** [https://imyoman99.github.io/vanilla-portfolio/](https://imyoman99.github.io/vanilla-portfolio/) 
+- **GitHub 저장소:** [https://github.com/imyoman99/vanilla-portfolio](https://github.com/imyoman99/vanilla-portfolio) 
 
 ---
 
